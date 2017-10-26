@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/peterkhayes/pitchfinder#readme",
   "devDependencies": {
-    "babel": "^5.8.20",
+    "babel-core": "^6.26.0",
     "babel-eslint": "^6.0.2",
     "eslint": "^2.7.0",
     "expect": "^1.16.0",
